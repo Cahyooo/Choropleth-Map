@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bar {
+    transition: fill 0.15s ease;
+    -webkit-transition: fill 0.15s ease;
+    -moz-transition: fill 0.15s ease;
+    -ms-transition: fill 0.15s ease;
+    -o-transition: fill 0.15s ease;
+}
